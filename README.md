@@ -1,6 +1,8 @@
 # test
-git checkout -b
-git add 
-git commit -m"姓名：潘平子灏"
-git push origin 
-
+姓名：
+潘平子灏
+余槿燚
+雷昀晖
+穆怡岚
+唐鸣阳
+甘迪澎
